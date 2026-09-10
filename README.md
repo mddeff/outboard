@@ -489,3 +489,9 @@ the queue file alone, with no dependency on any external liveness signal.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Based on [WatchTower](https://github.com/amirfish1/watchtower) by Amir Fish,
+used under the MIT License — see
+[THIRD_PARTY_NOTICES/fork.md](THIRD_PARTY_NOTICES/fork.md).
