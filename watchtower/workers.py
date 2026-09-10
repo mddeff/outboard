@@ -123,7 +123,7 @@ _WORKER_RUNBOOK_PATH = Path(__file__).resolve().parent.parent / "docs" / "worker
 # turn hung on `cat <dead path>`, then on a fallback fetch); point them at
 # the canonical published copy instead.
 _WORKER_RUNBOOK_URL = (
-    "https://raw.githubusercontent.com/amirfish1/watchtower/main/docs/worker-runbook.md"
+    "https://raw.githubusercontent.com/mddeff/outboard/main/docs/worker-runbook.md"
 )
 
 
